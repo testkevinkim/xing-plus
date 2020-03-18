@@ -37,6 +37,7 @@ https://pypi.python.org/pypi/xing-plus/
 ```
 pip install xing-plus
 ```
+>> is required to update pip with newer version
 
 ## API Document
 http://sculove.github.io/xing-plus/
